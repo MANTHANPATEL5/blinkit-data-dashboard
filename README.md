@@ -1,4 +1,4 @@
-# BlinkIT Sales Analysis Dashboard
+# Blinkit Sales Analysis Dashboard
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](dashboard.png)

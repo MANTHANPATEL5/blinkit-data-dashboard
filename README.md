@@ -1,4 +1,7 @@
 # BlinkIT Sales Analysis Dashboard
+## 📊 Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
 
 ## 📌 Project Overview
 This project analyzes BlinkIT grocery sales using Microsoft Power BI. The dashboard provides insights into sales performance, outlet types, product categories, customer ratings, and business KPIs.
